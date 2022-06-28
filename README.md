@@ -11,7 +11,7 @@
  Projeto para praticar o uso de interações, atualização dos componentes através do DOM e uso de dados provenientes do input radio.  
  
 <h2>Link de acesso</h2>
-
+https://yasmingonc.github.io/interactive-component/indexy.html
  
 <h2>Layout da aplicação</h2>
 
